@@ -1,0 +1,11 @@
+Q: How can I track my order?
+
+A: Customers can track their orders using the tracking link sent to their registered email address.
+
+Q: How can I contact customer support?
+
+A: Customers can contact support through support@example.com
+
+Q: What payment methods are accepted?
+
+A: We accept UPI, debit cards, credit cards and net banking.

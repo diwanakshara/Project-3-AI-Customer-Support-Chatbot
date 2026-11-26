@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-from langchain_core.documents import Document 
+from langchain.schema import Document
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"

@@ -1,0 +1,9 @@
+Delivery Policy
+
+1. Standard delivery takes 3 to 5 business days.
+
+2. Express delivery takes 1 to 2 business days.
+
+3. Customers receive a tracking link after dispatch.
+
+4. Delivery time depends on customer location.

@@ -1,6 +1,5 @@
 AI Customer Support Chatbot
-
-## A RAG (Retrieval Augmented Generation) chatbot built using:
+A RAG (Retrieval Augmented Generation) chatbot built using:
 
 LangChain
 FAISS
@@ -8,8 +7,7 @@ Sentence Transformers
 Ollama
 Llama 3.2
 Streamlit
-
-## Features
+Features
 FAQ Search
 Delivery Information
 Return Policy Search
@@ -17,8 +15,7 @@ Refund Queries
 Semantic Search
 Local AI Model
 No API Key Required
-
-## Installation
+Installation
 pip install -r requirements.txt
 Pull Ollama Model:
 
@@ -29,8 +26,7 @@ python src/create_embeddings.py
 Run Application:
 
 streamlit run app.py
-
-## Sample Questions
+Sample Questions
 What is your refund policy?
 How can I track my order?
 What is standard delivery time?
